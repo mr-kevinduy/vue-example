@@ -1,0 +1,57 @@
+{
+    "common": {
+        "date": "Ngày",
+        "day": "Ngày",
+        "month": "Tháng",
+        "year": "Năm",
+        "reset": "Đặt lại",
+        "back": "Quay lại"
+    },
+    "message": "Xin chào mọi người !!",
+    "success": {
+        "AUTH001": "Đăng ký thành công",
+        "AUTH002": "Đăng nhập thành công",
+        "AUTH003": "Đăng xuất thành công",
+        "AUTH004": "Đặt lại mật khẩu thành công",
+        "AUTH005": "Xác nhận email thành công"
+    },
+    "error": {
+        "AUTH001": "Đăng ký không thành công",
+        "AUTH002": "Đăng nhập không thành công",
+        "AUTH003": "Đăng xuất không thành công",
+        "AUTH004": "Đặt lại mật khẩu không thành công",
+        "AUTH005": "Xác nhận email không thành công",
+        "AUTH006": "Tài khoản của bạn chưa được xác nhận",
+        "AUTHVALID001": "Email không được để trống",
+        "AUTHVALID002": "Email đã nhập không chính xác",
+        "AUTHVALID003": "Email này đã đăng ký rồi",
+        "AUTHVALID004": "Mật khẩu không được trống",
+        "AUTHVALID005": "Mật khẩu nhập lại không được trống",
+        "AUTHVALID006": "Mật khẩu phải từ 6 kí tự trở lên",
+        "AUTHVALID007": "Mật khẩu không giống nhau"
+    },
+    "auth": {
+        "register": "Đăng ký",
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "full_name": "Họ và tên",
+        "full_name_placeholder": "Nhập họ và tên",
+        "first_name": "Họ",
+        "first_name_placeholder": "Nhập họ của bạn",
+        "last_name": "Tên",
+        "last_name_placeholder": "Nhập tên của bạn",
+        "middle_name": "Tên đệm",
+        "middle_name_placeholder": "Nhập tên đệm của bạn",
+        "other_name": "Bí danh",
+        "other_name_placeholder": "Nhập bí danh của bạn",
+        "username": "Tài khoản",
+        "username_placeholder": "Nhập tài khoản",
+        "email": "Email",
+        "email_placeholder": "Nhập email",
+        "password": "Mật khẩu",
+        "password_placeholder": "Nhập mật khẩu",
+        "confirm_password": "Nhập lại mật khẩu",
+        "confirm_password_placeholder": "Nhập lại mật khẩu",
+        "remember_user": "Ghi nhớ tài khoản?"
+    }
+}

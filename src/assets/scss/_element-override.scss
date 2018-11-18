@@ -1,0 +1,38 @@
+/* theme color */
+$--color-primary: $color-primary;
+
+$--color-text-primary: $color-text-primary;
+$--color-text-regular: $color-text-regular;
+$--color-text-secondary: $color-text-secondary;
+$--color-text-placeholder: $color-text-placeholder;
+
+/* Background
+-------------------------- */
+$--background-color-base: $background-color-base;
+
+/* Border
+-------------------------- */
+$--border-color-base: $border-color-base;
+
+/* Button
+-------------------------- */
+$--button-font-size: 16px;
+$--button-padding-vertical: 12px;
+$--button-padding-horizontal: 22px;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+.el-main {
+    padding: 80px 0;
+}
+
+.el-form-item__label {
+    font-weight: 500;
+}
+
+.el-form--label-top .el-form-item__label {
+    padding: 0;
+}

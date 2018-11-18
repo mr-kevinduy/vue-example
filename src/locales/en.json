@@ -1,0 +1,57 @@
+{
+    "common": {
+        "date": "Date",
+        "day": "Day",
+        "month": "Month",
+        "year": "Year",
+        "reset": "Reset",
+        "back": "Back"
+    },
+    "message": "Hello, veryone !!",
+    "success": {
+        "AUTH001": "Register success",
+        "AUTH002": "Login success",
+        "AUTH003": "Logout success",
+        "AUTH004": "Reset password success",
+        "AUTH005": "Verify email success"
+    },
+    "error": {
+        "AUTH001": "Register not success",
+        "AUTH002": "Login not success",
+        "AUTH003": "Logout not success",
+        "AUTH004": "Reset password not success",
+        "AUTH005": "Verify email not success",
+        "AUTH006": "You haven't verify email, please open your mail inbox and verify",
+        "AUTHVALID001": "Please input email address",
+        "AUTHVALID002": "Please input correct email address",
+        "AUTHVALID003": "This email registed, please input other email.",
+        "AUTHVALID004": "Please input the password",
+        "AUTHVALID005": "Please input the password again",
+        "AUTHVALID006": "Please input correct email address",
+        "AUTHVALID007": "Password don't match!"
+    },
+    "auth": {
+        "register": "Register",
+        "login": "Login",
+        "logout": "Logout",
+        "full_name": "Full name",
+        "full_name_placeholder": "Type a full name",
+        "first_name": "First name",
+        "first_name_placeholder": "Type a first name",
+        "last_name": "Last name",
+        "last_name_placeholder": "Type a last name",
+        "middle_name": "Middle name",
+        "middle_name_placeholder": "Type a middle name",
+        "other_name": "Other name",
+        "other_name_placeholder": "Type a other name",
+        "username": "Username",
+        "username_placeholder": "Type a username",
+        "email": "Email",
+        "email_placeholder": "Type a email",
+        "password": "Password",
+        "password_placeholder": "Type a password",
+        "confirm_password": "Confirm password",
+        "confirm_password_placeholder": "Type again password",
+        "remember_user": "Remember account?"
+    }
+}
